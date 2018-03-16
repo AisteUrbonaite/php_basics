@@ -1,1 +1,1 @@
-# php_basics
+# pirmas php basic namu darbas
